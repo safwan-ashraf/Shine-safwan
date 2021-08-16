@@ -87,12 +87,13 @@
         width: 70%;
         margin: 0 auto;
         line-height: 20px;
+
     }
     #spotlight div.contents {
 	padding: 15vh 0;
 	}
     #footer small {
-		font-size: 12px;
+		font-size: 13px;
 		padding: 0;
 	}
 	#middle ul {
@@ -107,5 +108,14 @@
 	}
 	#middle ul{
 		padding-bottom: 30px;
+	}
+	#spotlight {
+		height: 70vh;
+	}
+	#middle ul li p{
+		font-size: 15px;
+	}
+	#middle ul li h4 {
+		font-size: 22px;
 	}
 }
